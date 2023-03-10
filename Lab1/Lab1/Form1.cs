@@ -33,6 +33,7 @@ namespace Lab1
                 case 4:
                     firstNumber = ~firstNumber;
                     TextBox.Text = firstNumber.ToString();
+                    break;
             }
         }
 
