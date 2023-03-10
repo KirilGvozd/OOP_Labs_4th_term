@@ -1,0 +1,10 @@
+C:\Fourth_semestr\OOP\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Fourth_semestr\OOP\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Fourth_semestr\OOP\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Fourth_semestr\OOP\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Fourth_semestr\OOP\Lab1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+C:\Fourth_semestr\OOP\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Fourth_semestr\OOP\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Fourth_semestr\OOP\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Fourth_semestr\OOP\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Fourth_semestr\OOP\Lab1\Lab1\obj\Debug\Lab1.pdb
